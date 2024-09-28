@@ -1,19 +1,20 @@
 // dependencias para express
-npm init -yes
-npm i express
-npm i mysql2 express-mysql-session morgan dotenv cors moment mysql mysql2 body-parser
-npm install --save-dev nodemon
-npm install bcrypt
+
+//npm init -yes
+//npm i express
+//npm i mysql2 express-mysql-session morgan dotenv cors moment mysql mysql2 body-parser
+//npm install --save-dev nodemon
+//npm install bcrypt
 
 //dependencias para React
-npm create vite@latest
+//npm create vite@latest
 
 //rutas
-npm install react-router-dom
+//npm install react-router-dom
 
 //Tailwind
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init
+//npm install -D tailwindcss postcss autoprefixer
+//npx tailwindcss init
 
 //configuracion de tailwind.config.js
 
