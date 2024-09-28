@@ -6,6 +6,15 @@
 //npm install --save-dev nodemon
 //npm install bcrypt
 
+//configuracion del .env
+//PORT = puerto
+// HOST = hosting
+// USER = usuario
+// PSW = contraseña
+// DB = Data Base
+
+
+
 //dependencias para React
 //npm create vite@latest
 
